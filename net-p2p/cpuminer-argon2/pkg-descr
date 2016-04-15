@@ -1,0 +1,5 @@
+This is a multi-threaded CPU miner, based on Encel-US fork of
+cpuminer, with tpruvot's enhancements (see AUTHORS for list of
+contributors), focused on Argon2. 
+
+WWW: https://github.com/Miouyouyou/cpuminer-argon2
